@@ -1,0 +1,47 @@
+# Proposition de nomenclature
+
+## Grammaire
+
+<p style="text-align: center;"><code>CI-C237-%%-###</code></p>
+
+- `CI` : désigne le Club Info
+- `C237` : la salle du Club Info durant l’année 2024/2025, afin de se rapprocher de la précédente nomenclature de l’ESSTIN
+- `%%` : le type de matériel désigné parmi
+    - `PC` : ordinateur fixe (incluant les boitiers vides ou partiellement vides)
+    - `LP` : laptop = ordinateur portable
+    - `DP` : display = écran
+    - `KB` : keyboard = clavier
+    - `MS` : mouse = souris
+    - `CT` : controller = manette
+    - `CS` : console (Wii, Megadrive, PS1, etc…)
+    - `CG` : Graphic Card = cartes graphiques
+    - `SW` : Switch réseau
+    - `SR` : serveur
+- `###` : le numéro correspondant au matériel
+
+Exemple : `CI-C237-PC-011` désigne le 11e ordinateur
+
+## Style
+
+Par soucis de consistance, il est recommandé d’utiliser la police `Roboto Mono` de largeur Moyen sur toutes les étiquettes
+
+La police est monochasse et devra être de taille 14 pour être lisible
+
+Le choix de la police Roboto est arbitraire mais disponible sur Google Draw ainsi que sur [Google Font](https://fonts.google.com/specimen/Roboto)
+
+## Document
+
+Les étiquettes mesurent 7,5 cm x 1,2 cm afin de pouvoir être scotchées à l’aide de bande adhésive classique
+
+Afin de faciliter leur découpe, elles seront entourées de bordures pointillées d’épaisseur 1px
+
+## Bonnes pratiques
+
+### Devra être étiqueté :
+
+- Tout matériel appartenant au club info et conformément à la nomenclature afin de permettre un référencement efficace et unique
+- Tout matériel non fonctionnel stocké au club info en attente de réparations ou non
+
+### Devra être étiqueté spécifiquement :
+
+- Tout matériel appartenant à un membre du club info, avec Nom et Année de dépôt conformément à la feuille d’étiquetage
