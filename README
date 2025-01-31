@@ -1,27 +1,60 @@
 # Proposition de nomenclature
 
+
+## Bonnes pratiques
+
+### Devra être étiqueté :
+
+- Tout matériel appartenant au club info et conformément à la nomenclature afin de permettre un référencement efficace et unique
+- Tout matériel non fonctionnel stocké au club info en attente de réparations ou non
+
+### Devra être étiqueté spécifiquement :
+
+- Tout matériel appartenant à un membre du club info, avec Nom et Année de dépôt conformément à la feuille d’étiquetage
+
+### Ne devra pas être étiqueté
+- Les processeurs (`PR`)
+
 ## Grammaire
 
 <p style="text-align: center;"><code>CI-C237-%%-###</code></p>
 
 - `CI` : désigne le Club Info
 - `%%` : le type de matériel désigné parmi
-    - `PC` : ordinateur fixe (incluant les boitiers vides ou partiellement vides)
-    - `LP` : laptop = ordinateur portable
-    - `DP` : display = écran
-    - `KB` : keyboard = clavier
-    - `MS` : mouse = souris
-    - `CT` : controller = manette
-    - `CS` : console (Wii, Megadrive, PS1, etc…)
-    - `CG` : Graphic Card = cartes graphiques
-    - `SW` : Switch réseau
-    - `SR` : serveur
+    1. `PC` : ordinateur fixe (incluant les boitiers vides ou partiellement vides)
+    2. `LP` : laptop = ordinateur portable
+    3. `DP` : display = écran
+    4. `KB` : keyboard = clavier
+    5. `MS` : mouse = souris
+    6. `CT` : controller = manette
+    7. `CS` : console (Wii, Megadrive, PS1, etc…)
+    8. `CG` : Graphic Card = cartes graphiques
+    9. `SW` : Switch réseau
+    10. `SR` : serveur
+    11. `PR` : Processeur
+    12. `PT` : Imprimante (3D ou papier)
 - `###` : le numéro correspondant au matériel
     - Le premier chiffre peut être changé en `E` pour signifier qu’il appartient à un membre ou à un externe
 
 ### Exemple :
 - `CI-C237-PC-011` désigne le 11e ordinateur
 - `CI-C237-CG-E01` désigne la 1ère carte graphique appartenant à un membre
+
+## DataMatrix
+
+Une image scannable DataMatrix ECC 200 devra être visible et accessible sur le matériel pouvant être marqué
+
+Devront être marqué :
+- Les ordinateurs (`PC`)
+- Les cartes graphiques (`CG`)
+- Les écrans (`DP`)
+- Les claviers (`KB`)
+- Les souris (`MS`)
+- Les switchs (`SW`)
+- Les serveurs (`SR`)
+- Les ordinateurs portables (`LP`)
+- Les imprimantes (`PT`)
+
 
 ## Style
 
@@ -36,14 +69,3 @@ Le choix de la police Roboto est arbitraire mais disponible sur Google Draw ains
 Les étiquettes mesurent 7,5 cm x 1,2 cm afin de pouvoir être scotchées à l’aide de bande adhésive classique
 
 Afin de faciliter leur découpe, elles seront entourées de bordures pointillées d’épaisseur 1px
-
-## Bonnes pratiques
-
-### Devra être étiqueté :
-
-- Tout matériel appartenant au club info et conformément à la nomenclature afin de permettre un référencement efficace et unique
-- Tout matériel non fonctionnel stocké au club info en attente de réparations ou non
-
-### Devra être étiqueté spécifiquement :
-
-- Tout matériel appartenant à un membre du club info, avec Nom et Année de dépôt conformément à la feuille d’étiquetage
