@@ -5,7 +5,6 @@
 <p style="text-align: center;"><code>CI-C237-%%-###</code></p>
 
 - `CI` : désigne le Club Info
-- `C237` : la salle du Club Info durant l’année 2024/2025, afin de se rapprocher de la précédente nomenclature de l’ESSTIN
 - `%%` : le type de matériel désigné parmi
     - `PC` : ordinateur fixe (incluant les boitiers vides ou partiellement vides)
     - `LP` : laptop = ordinateur portable
@@ -18,14 +17,17 @@
     - `SW` : Switch réseau
     - `SR` : serveur
 - `###` : le numéro correspondant au matériel
+    - Le premier chiffre peut être changé en `E` pour signifier qu’il appartient à un membre ou à un externe
 
-Exemple : `CI-C237-PC-011` désigne le 11e ordinateur
+### Exemple :
+- `CI-C237-PC-011` désigne le 11e ordinateur
+- `CI-C237-CG-E01` désigne la 1ère carte graphique appartenant à un membre
 
 ## Style
 
 Par soucis de consistance, il est recommandé d’utiliser la police `Roboto Mono` de largeur Moyen sur toutes les étiquettes
 
-La police est monochasse et devra être de taille 14 pour être lisible
+La police est monochasse et devra être de taille 20 pour être lisible
 
 Le choix de la police Roboto est arbitraire mais disponible sur Google Draw ainsi que sur [Google Font](https://fonts.google.com/specimen/Roboto)
 
