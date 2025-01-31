@@ -24,15 +24,16 @@
     1. `PC` : ordinateur fixe (incluant les boitiers vides ou partiellement vides)
     2. `LP` : laptop = ordinateur portable
     3. `DP` : display = écran
-    4. `KB` : keyboard = clavier
-    5. `MS` : mouse = souris
-    6. `CT` : controller = manette
-    7. `CS` : console (Wii, Megadrive, PS1, etc…)
-    8. `CG` : Graphic Card = cartes graphiques
-    9. `SW` : Switch réseau
-    10. `SR` : serveur
-    11. `PR` : Processeur
-    12. `PT` : Imprimante (3D ou papier)
+    4. `DK` : disk = disque (HDD ou SSD)
+    5. `KB` : keyboard = clavier
+    6. `MS` : mouse = souris
+    7. `CT` : controller = manette
+    8. `CS` : console (Wii, Megadrive, PS1, etc…)
+    9. `CG` : Graphic Card = cartes graphiques
+    10. `SW` : Switch réseau
+    11. `SR` : serveur
+    12. `PR` : Processeur
+    13. `PT` : Imprimante (3D ou papier)
 - `###` : le numéro correspondant au matériel
     - Le premier chiffre peut être changé en `E` pour signifier qu’il appartient à un membre ou à un externe
 
@@ -50,6 +51,7 @@ Devront être marqué :
 - Les écrans (`DP`)
 - Les claviers (`KB`)
 - Les souris (`MS`)
+- Les disques (`DK`)
 - Les switchs (`SW`)
 - Les serveurs (`SR`)
 - Les ordinateurs portables (`LP`)
